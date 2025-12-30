@@ -7,4 +7,4 @@ or you can use it ```pip install PyQt5``` then ```pip install PyQtWebEngine```
 
 then run Erown.py and enjoy it!
 
-<img src='src/screenshots.jpg'>
+<img src='src/screenshot.jpg'>
